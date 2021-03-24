@@ -1,4 +1,4 @@
-# Chat com Websockets - Microservice Java Quarkus
+# Chat Assíncrono via Kafka e Websockets - Microservice Java Quarkus
 
 Demonstração usando Quarkus: the Supersonic Subatomic Java Framework.
 
