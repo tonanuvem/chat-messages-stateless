@@ -9,6 +9,7 @@ website: https://quarkus.io/
 ```
 git clone
 cd chat-messages-stateless
+mv mvn .mvn
 chmod +x mvnw
 ./mvnw quarkus:dev
 ```
